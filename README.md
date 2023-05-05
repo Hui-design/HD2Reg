@@ -20,7 +20,7 @@ Feature Descriptors and Detectors are two main components of feature-based point
 
 #Requirements and datasets
 
-We use the same dependences and datasets as [Predator]([prs-eth/OverlapPredator: [CVPR 2021, Oral\] PREDATOR: Registration of 3D Point Clouds with Low Overlap. (github.com)](https://github.com/prs-eth/OverlapPredator)). For convenience, we give the following command.
+We use the same dependences and datasets as [Predator](https://github.com/prs-eth/OverlapPredator). For convenience, we give the following command.
 
 ```
 conda create -n HD2Reg python=3.8
@@ -54,4 +54,4 @@ If you find this code useful for your work or use it in your project, please con
 
 # Acknowledgements
 
-In this project we use (parts of) the official implementations of [Predator]([prs-eth/OverlapPredator: [CVPR 2021, Oral\] PREDATOR: Registration of 3D Point Clouds with Low Overlap. (github.com)](https://github.com/prs-eth/OverlapPredator)). We sincerely thank the authors.
+In this project we use (parts of) the official implementations of [Predator](https://github.com/prs-eth/OverlapPredator). We sincerely thank the authors.
