@@ -2,7 +2,7 @@
 
 **Our paper is accepted by IEEE Intelligent Vehicles Symposium 2023 (IV 2023)**
 
-[arxiv](). The camera_ready version of our paper has been released.
+[arxiv](https://arxiv.org/abs/2305.03487). The camera_ready version of our paper has been released.
 
 # Autuor
 Canhui Tang [1], Yiheng Li [1], Shaoyi Du [1], Guofa Wang [2], and Zhiqiang Tian [2]
