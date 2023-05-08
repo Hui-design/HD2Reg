@@ -1,9 +1,3 @@
-"""
-Scripts for pairwise registration with RANSAC and our probabilistic sampling
-
-Author: Shengyu Huang
-Last modified: 30.11.2020
-"""
 import pdb
 
 import torch, os, sys, glob
