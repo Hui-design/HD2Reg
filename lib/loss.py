@@ -1,9 +1,3 @@
-"""
-Loss functions
-
-Author: Shengyu Huang
-Last modified: 30.11.2020
-"""
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
